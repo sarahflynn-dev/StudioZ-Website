@@ -53,20 +53,40 @@
     font-size: 3em;
 }
 
+.info {
+    font-family: "redfive";
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    font-style: oblique;
+    text-shadow: #0000005e 2px 2px 8px;
+    line-height: 0.8;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
 .harabara {
     font-family: "Harabara";
     letter-spacing: 1px;
     font-weight: normal;
 }
 
-.opensans, p {
+p {
+    font-family: "OpenSans";
+    letter-spacing: -0.5px;
+    line-height: normal;
+}
+
+.opensans {
     font-family: "OpenSans";
     letter-spacing: -0.5px;
 }
 
+
+
+
+
 .redfive, p, nav, ol, ul{
     font-size: 1em;
-    
     letter-spacing: 0.5px;
 }
 
